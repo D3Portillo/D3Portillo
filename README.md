@@ -5,4 +5,4 @@
 - 💬 Ask me about anything :)
 - 🌱 Trying to conquer D3 Land 
 - 📫 Email: hello@d3portillo / d3portillo@gmail.com
-- 💃 Pronouns: he/him
+- 📓 Mis notas: https://d3portillo.me/notes
