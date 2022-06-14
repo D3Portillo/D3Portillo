@@ -1,6 +1,6 @@
 ## 👋 Hi, it's Denny
 
-I like coding with JavaScript/TypeScript.Always playing around with **Web Stuff** & Legos.<br/>There's tooooo much to learn 🐣, but there's time 🐳.
+I like coding with JavaScript/TypeScript. Love playing around with **Web Stuff** & Legos.<br/>There's tooooo much to learn 🐣, but there's time 🐳.
 
 ![Deku Head Banging for All-might's laughter video](https://gist.githubusercontent.com/D3Portillo/0a9e33ddb33eed6c9cf450b2b62e8db8/raw/da350797cebcbdb9c70dc0861ebdfe77e48d57d0/explosion.gif)
 
