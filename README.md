@@ -20,3 +20,7 @@ I like coding with JavaScript/TypeScript. Love playing around with **Web Stuff**
 - 🌱 Trying to conquer C & Rust Lang
 - 📫 Waiting for a coffee invitation at: d3portillo@gmail.com
 - 📓 Writing random stuff at: [d3portillo.me/notes](https://d3portillo.me/notes)
+
+##
+
+[![View my repos](https://github-readme-stats.vercel.app/api/top-langs?username=d3portillo&locale=en&layout=compact)](https://github.com/D3Portillo?tab=repositories)
