@@ -1,7 +1,6 @@
-## 👋 Hi, it's Denny
+## 👋 Sup. It's Denny
 
-Full-stack builder exploring the chaos between **Web3**, **AI**, and **Mini Apps**.<br/>
-There's tooooo much to learn 🐣, but there's time 🐳.
+Full-stack builder exploring the chaos between **Web3**, **AI**, and **Mini Apps**.
 
 ![Deku Head Banging for All-might's laughter video](https://gist.githubusercontent.com/D3Portillo/0a9e33ddb33eed6c9cf450b2b62e8db8/raw/da350797cebcbdb9c70dc0861ebdfe77e48d57d0/explosion.gif)
 
@@ -12,6 +11,8 @@ There's tooooo much to learn 🐣, but there's time 🐳.
   •
   <a href="https://t.me/d3portillo">Telegram</a>
 </p>
+
+---
 
 ## What I'm doing
 
